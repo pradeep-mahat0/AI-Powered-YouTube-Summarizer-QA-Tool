@@ -36,8 +36,8 @@ With the explosion of online video content, manually searching through lengthy f
 
 ### 1. Clone the repository  
 
-git clone https://github.com/your-username/yt-summarizer-qa.git
-cd yt-summarizer-qa
+gh repo clone pradeep-mahat0/AI-Powered-YouTube-Summarizer-QA-Tool
+cd AI-Powered-YouTube-Summarizer-QA-Tool
 
 ### 2. Create a virtual environment
 
