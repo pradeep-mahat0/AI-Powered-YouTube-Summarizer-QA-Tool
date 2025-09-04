@@ -1,0 +1,26 @@
+# LangChain ecosystem (aligned versions)
+
+langchain==0.3.27
+langchain-community==0.3.29
+langchain-core==0.3.75
+langchain-huggingface==0.3.1
+langchain-text-splitters==0.3.11
+langsmith==0.4.23
+
+#hf
+huggingface-hub==0.34.4
+
+# Vector search
+faiss-cpu==1.8.0
+
+# Frontend UI
+gradio==4.44.1
+
+# YouTube transcript extraction
+youtube-transcript-api==1.2.1
+
+# Other useful dependencies
+python-dotenv==1.0.1
+pydantic==2.9.2
+numpy==1.26.4
+requests==2.32.3
